@@ -1,4 +1,4 @@
-const enddate = "1 Jan 2024 00:2";
+const enddate = "1 Jan 2025 00:2";
 
 document.querySelector(".date-1").innerText = "1 Jan 2024 00:00";
 
